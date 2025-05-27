@@ -1,4 +1,4 @@
-# AffiliTech Mastery: Phase 1 - AI Tool Finder Chatbot
+# Affiliate Mantra: Phase 1 - AI Tool Finder Chatbot
 
 > *Phase 1 of a 12-month Full Stack AI Engineer journey. For the complete roadmap of future projects, see [ROADMAP.md](./ROADMAP.md).*
 
@@ -15,10 +15,12 @@ This README outlines our first project together: building an **AI Tool Finder Ch
 **Revenue Model:** Affiliate commissions from recommended tools
 
 **Technical Stack:**
-- Frontend: React.js
-- Backend: Vercel Serverless Functions
+- Frontend: Next.js (React framework)
+- Backend: Next.js API Routes + Vercel Serverless Functions
 - AI Integration: OpenAI API
 - Deployment: Vercel
+
+> **Why Next.js?** As a modern React framework, Next.js provides server-side rendering, simplified routing, and API routes—making it ideal for building performant AI applications with less configuration.
 
 ## 4-Week Learning Path & Project Timeline
 
@@ -125,7 +127,7 @@ const getRecommendations = async (userProfile) => {
 By the end of this 4-week project, you'll be able to add these impressive skills to your resume:
 
 - **AI Integration**: OpenAI API implementation
-- **Full Stack Development**: React + Vercel
+- **Full Stack Development**: Next.js + Vercel
 - **Recommendation Systems**: Algorithmic tool matching
 - **Monetization Strategy**: Affiliate marketing implementation
 - **Serverless Architecture**: Vercel Functions
@@ -251,8 +253,8 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 #### Top AI Tools For Today
 1. **[Quokka.js](https://quokkajs.com/)**: JavaScript/TypeScript scratchpad with inline results
 2. **[TypeScript Playground](https://www.typescriptlang.org/play)**: Test TypeScript code online
-3. **[CodePen](https://codepen.io/)**: Create and share JavaScript examples
-4. **[GitHub Copilot](https://github.com/features/copilot)**: Suggests JavaScript/TypeScript code as you type
+3. **[GitHub Copilot](https://github.com/features/copilot)**: Suggests JavaScript/TypeScript code as you type
+4. **[CodePen](https://codepen.io/)**: Create and share JavaScript examples
 5. **[Tabnine](https://www.tabnine.com/)**: AI code completion for JavaScript/TypeScript
 
 **Resume Skill**: JavaScript ES6+, TypeScript Type System, DOM Manipulation
@@ -346,7 +348,7 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 1. **State Planning**: Map out application state before implementing
 2. **Start Small**: Begin with simple useState before complex state management
 3. **State Lifting**: Practice lifting state up to common ancestors
-4. **State Isolation**: Keep state as local as possible to components that need it
+4. **Test Error Scenarios**: Deliberately create error conditions to test handling
 
 #### Industry Best Practices
 1. **Single Source of Truth**: Maintain one source of truth for important state
