@@ -8,7 +8,7 @@ This 12-month roadmap is designed to help you master the following essential ski
 
 | Skill Category | Core Skills | Tools & Technologies |
 |----------------|-------------|------------------------|
-| **Software Engineering** | Front-End Development | Next.js, React, TypeScript, Tailwind CSS |
+| **Software Engineering** | Front-End Development | Next.js, TypeScript, Tailwind CSS |
 | | Back-End Development | Next.js API Routes, FastAPI, Express.js |
 | | API Design | REST, GraphQL, OpenAPI |
 | | Testing | Jest, Cypress, React Testing Library |

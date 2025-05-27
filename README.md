@@ -259,35 +259,35 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 
 **Resume Skill**: JavaScript ES6+, TypeScript Type System, DOM Manipulation
 
-#### Day 3 (2025-05-29): React Components
+#### Day 3 (2025-05-29): Next.js Components
 **Today's Focus**: Building reusable UI elements
 
 **Tasks**:
-1. Set up React with Create React App or Vite
-2. Convert HTML structure to React components
+1. Set up Next.js with Create Next App or Vite
+2. Convert HTML structure to Next.js components
 3. Create Header, Footer, and ChatInterface components
 4. Implement props to make components configurable
 5. Build a BusinessTypeSelector component
 
 **Learning Resources**:
-- [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-- [Create React App Documentation](https://create-react-app.dev/docs/getting-started)
-- [React Components & Props](https://reactjs.org/docs/components-and-props.html)
+- [Next.js Crash Course](https://www.youtube.com/watch?v=IkOVe40Dvxg)
+- [Create Next App Documentation](https://nextjs.org/docs/getting-started)
+- [Next.js Components & Props](https://nextjs.org/docs/basic-features/pages)
 
-**Project Milestone**: Working React application with basic component architecture
+**Project Milestone**: Working Next.js application with basic component architecture
 
 **Daily Trainer Recommendations**:
 
 #### Tools & Environment Setup
-1. **Code Editor**: Add these VS Code extensions for React:
+1. **Code Editor**: Add these VS Code extensions for Next.js:
    - ES7+ React/Redux/React-Native snippets
-   - React Developer Tools
+   - Next.js Developer Tools
    - Auto Import
    - React PropTypes IntelliSense
 
 2. **Development Tools**:
-   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) browser extension
-   - [Vite](https://vitejs.dev/) or [Create React App](https://create-react-app.dev/)
+   - [Next.js Documentation](https://nextjs.org/docs/getting-started) for official guides
+   - [Vite](https://vitejs.dev/) or [Create Next App](https://nextjs.org/docs/getting-started) for project setup
    - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) package manager
 
 #### Learning Approach
@@ -305,12 +305,12 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 
 #### Top AI Tools For Today
 1. **[Storybook](https://storybook.js.org/)**: Develop and test UI components in isolation
-2. **[React Patterns](https://reactpatterns.com/)**: Common patterns for React components
-3. **[GitHub Copilot](https://github.com/features/copilot)**: Get component suggestions as you code
+2. **[Next.js Examples](https://github.com/vercel/next-learn)**: Official Next.js example projects
+3. **[GitHub Copilot](https://github.com/features/copilot)**: Get Next.js component suggestions
 4. **[Bit](https://bit.dev/)**: Component sharing and collaboration platform
-5. **[Plasmic](https://www.plasmic.app/)**: Visual builder for React components
+5. **[Plasmic](https://www.plasmic.app/)**: Visual builder for Next.js components
 
-**Resume Skill**: React Component Architecture, JSX Development, Component Props Management
+**Resume Skill**: Next.js Component Architecture, JSX Development, Component Props Management
 
 #### Day 4 (2025-05-30): State Management
 **Today's Focus**: Handling user selections and filters
@@ -323,9 +323,9 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 5. Create a simple context for global state
 
 **Learning Resources**:
-- [React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+- [Next.js State Management](https://nextjs.org/docs/basic-features/state-management)
 - [useState Hook Documentation](https://reactjs.org/docs/hooks-state.html)
-- [React Context API](https://reactjs.org/docs/context.html)
+- [Next.js Context API](https://nextjs.org/docs/basic-features/context-api)
 
 **Project Milestone**: Functional form that captures and maintains user preferences
 
@@ -333,13 +333,13 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 
 #### Tools & Environment Setup
 1. **Code Editor**: Add these VS Code extensions:
-   - React Hooks Snippets
+   - Next.js Snippets
    - Local Storage Explorer
    - Import Cost
    - Jest Runner (for testing state changes)
 
 2. **Development Tools**:
-   - [React Query Devtools](https://tanstack.com/query/v4/docs/react/devtools)
+   - [Next.js Devtools](https://nextjs.org/docs/basic-features/devtools)
    - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) (if using Redux)
    - [Chrome DevTools Application Tab](https://developer.chrome.com/docs/devtools/storage/localstorage/) for local storage inspection
    - [Upstash](https://upstash.com/) for serverless Redis caching
@@ -364,13 +364,13 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 4. **[React Flow](https://reactflow.dev/)**: Visualize state flow in your application
 5. **[Vercel Edge Config](https://vercel.com/docs/storage/edge-config)**: Global, low-latency data store
 
-**Resume Skill**: React Hooks Implementation, State Management, Context API
+**Resume Skill**: Next.js Hooks Implementation, State Management, Context API
 
 #### Day 5 (2025-05-31): Tailwind CSS
 **Today's Focus**: Building a professional UI quickly
 
 **Tasks**:
-1. Set up Tailwind CSS in your React project
+1. Set up Tailwind CSS in your Next.js project
 2. Redesign components using Tailwind classes
 3. Implement a responsive layout with Tailwind
 4. Create a consistent color scheme and typography
@@ -1719,9 +1719,9 @@ After completing this 4-week AI Tool Finder project, you'll have gained numerous
 ### Frontend Development
 - **HTML5/CSS3**: Advanced semantic markup and responsive styling
 - **JavaScript/TypeScript**: Form validation, DOM manipulation, type safety
-- **React.js**: Component architecture, hooks, context API
+- **Next.js**: Component architecture, server-side rendering, API routes
 - **Tailwind CSS**: Utility-first styling, responsive design system
-- **State Management**: React hooks, context API for global state
+- **State Management**: Next.js hooks, context API for global state
 - **Form Handling**: Complex form validation, multi-step forms
 - **Responsive Design**: Mobile-first approach, media queries, flexible layouts
 
