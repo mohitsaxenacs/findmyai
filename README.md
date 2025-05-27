@@ -15,12 +15,12 @@ This README outlines our first project together: building an **AI Tool Finder Ch
 **Revenue Model:** Affiliate commissions from recommended tools
 
 **Technical Stack:**
-- Frontend: Next.js (React framework)
+- Frontend: Next.js framework
 - Backend: Next.js API Routes + Vercel Serverless Functions
 - AI Integration: OpenAI API
 - Deployment: Vercel
 
-> **Why Next.js?** As a modern React framework, Next.js provides server-side rendering, simplified routing, and API routes—making it ideal for building performant AI applications with less configuration.
+> **Why Next.js?** As a modern JavaScript framework, Next.js provides server-side rendering, simplified routing, and API routes—making it ideal for building performant AI applications with less configuration.
 
 ## 4-Week Learning Path & Project Timeline
 
@@ -31,50 +31,50 @@ This README outlines our first project together: building an **AI Tool Finder Ch
 |------|-------|-------|-----------------|--------------|------------|
 | **TODAY!**<br>2025-05-27 | HTML/CSS Basics | 3 | Structure and style webpages | Web Development Fundamentals | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS Tutorial](https://www.w3schools.com/css/) |
 | 2025-05-28 | JavaScript & TypeScript | 3 | Add interactivity and type safety | JavaScript/TypeScript Development | [JavaScript.info](https://javascript.info/), [TypeScript Handbook](https://www.typescriptlang.org/docs/) |
-| 2025-05-29 | React Components | 3 | Create reusable UI elements | React Component Architecture | [React Documentation](https://reactjs.org/docs/getting-started.html), [React Tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8) |
-| 2025-05-30 | State Management | 3 | Handle user selections and filters | React Hooks & State Management | [React Hooks Guide](https://reactjs.org/docs/hooks-intro.html), [React State Management](https://www.youtube.com/watch?v=O6P86uwfdR0) |
-| 2025-05-31 | Tailwind CSS | 3 | Build a professional UI quickly | Rapid UI Development | [Tailwind CSS](https://tailwindcss.com/docs), [Tailwind Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME) |
-| 2025-06-01 | Responsive Design | 3 | Ensure mobile compatibility | Cross-Platform UI Design | [Responsive Web Design](https://web.dev/responsive-web-design-basics/), [Media Queries](https://www.youtube.com/watch?v=2KL-z9A56SQ) |
-| 2025-06-02 | Form Handling | 3 | Capture user preferences efficiently | User Input Processing | [React Hook Form](https://react-hook-form.com/), [Form Validation](https://www.youtube.com/watch?v=brcHK3P6ChQ) |
+| 2025-05-29 | Next.js Components | 3 | Create reusable UI elements | Next.js Component Architecture | [React Documentation](https://reactjs.org/docs/getting-started.html), [Next.js Tutorial](https://nextjs.org/docs/getting-started) |
+| 2025-05-30 | State Management | 3 | Handle user selections and filters | Next.js Hooks Implementation | [React Hooks Guide](https://reactjs.org/docs/hooks-intro.html), [Next.js State Management](https://nextjs.org/docs/basic-features/state-management) |
+| 2025-05-31 | Tailwind CSS | 3 | Build a professional UI quickly | Tailwind CSS, Utility-First Styling | [Tailwind CSS](https://tailwindcss.com/docs), [Tailwind Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME) |
+| 2025-06-01 | Responsive Design | 3 | Ensure mobile compatibility | Mobile-First Design, Responsive Web Development | [Responsive Web Design](https://web.dev/responsive-web-design-basics/), [Media Queries](https://www.youtube.com/watch?v=2KL-z9A56SQ) |
+| 2025-06-02 | Form Handling | 3 | Capture user preferences efficiently | Form Validation, UX Form Design | [React Hook Form](https://react-hook-form.com/), [Form Validation](https://www.youtube.com/watch?v=brcHK3P6ChQ) |
 
 ### Week 2 – API Integration & Backend
 🎯 **Goal**: Connect to OpenAI API and implement recommendation logic
 
 | Date | Topic | Hours | Learning Outcome | Resume Skill | Resources |
 |------|-------|-------|-----------------|--------------|------------|
-| 2025-06-03 | Vercel Serverless Functions | 3 | Create API endpoints | Serverless Architecture | [Vercel Functions](https://vercel.com/docs/concepts/functions/serverless-functions), [Serverless Tutorial](https://www.youtube.com/watch?v=V-J2OnZRC0I) |
-| 2025-06-04 | OpenAI API Integration | 3 | Generate AI-powered recommendations | AI API Integration | [OpenAI API Docs](https://platform.openai.com/docs/api-reference), [OpenAI Tutorial](https://www.youtube.com/watch?v=DFmyr3qqwQw) |
-| 2025-06-05 | API Error Handling | 3 | Create robust API requests | Error Management | [JavaScript Error Handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling), [API Error Handling](https://www.youtube.com/watch?v=DyqVqaf1KnA) |
-| 2025-06-06 | Data Caching | 3 | Optimize API usage and costs | Performance Optimization | [React Query](https://react-query.tanstack.com/), [Caching Strategies](https://www.youtube.com/watch?v=JCOPVq2AYd4) |
-| 2025-06-07 | Authentication Setup | 3 | Secure user accounts | Security Implementation | [Auth.js](https://authjs.dev/), [Auth Tutorial](https://www.youtube.com/watch?v=GPBD3acOx_M) |
-| 2025-06-08 | Database Integration | 3 | Store tool data and user preferences | Database Management | [Supabase](https://supabase.com/docs), [Supabase Tutorial](https://www.youtube.com/watch?v=dU7GwCOgvNY) |
-| 2025-06-09 | API Middleware | 3 | Transform and enhance API responses | API Design Patterns | [Express.js Middleware](https://expressjs.com/en/guide/using-middleware.html), [Middleware Tutorial](https://www.youtube.com/watch?v=lY6icfhap2o) |
+| 2025-06-03 | Vercel Serverless Functions | 3 | Create API endpoints | Serverless Architecture, Vercel Functions | [Vercel Functions](https://vercel.com/docs/concepts/functions/serverless-functions), [Serverless Tutorial](https://www.youtube.com/watch?v=V-J2OnZRC0I) |
+| 2025-06-04 | OpenAI API Integration | 3 | Generate AI-powered recommendations | OpenAI API Integration, AI Service Implementation | [OpenAI API Docs](https://platform.openai.com/docs/api-reference), [OpenAI Tutorial](https://www.youtube.com/watch?v=DFmyr3qqwQw) |
+| 2025-06-05 | API Error Handling | 3 | Create robust API requests | API Error Handling, Defensive Programming | [JavaScript Error Handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling), [API Error Handling](https://www.youtube.com/watch?v=DyqVqaf1KnA) |
+| 2025-06-06 | Data Caching | 3 | Optimize API usage and costs | Frontend Caching Strategies, Performance Optimization | [React Query](https://tanstack.com/query/latest), [Caching Strategies](https://web.dev/offline-cookbook/) |
+| 2025-06-07 | Authentication Setup | 3 | Secure user accounts | OAuth Integration, JWT Authentication | [Auth.js](https://authjs.dev/), [Auth Tutorial](https://www.youtube.com/watch?v=GPBD3acOx_M) |
+| 2025-06-08 | Database Integration | 3 | Store tool data and user preferences | Supabase Integration, SQL Database Design | [Supabase](https://supabase.com/docs), [Supabase Tutorial](https://www.youtube.com/watch?v=dU7GwCOgvNY) |
+| 2025-06-09 | API Middleware | 3 | Transform and enhance API responses | API Middleware Development, Request/Response Pipeline | [Express.js Middleware](https://expressjs.com/en/guide/using-middleware.html), [Middleware Tutorial](https://www.youtube.com/watch?v=lY6icfhap2o) |
 
 ### Week 3 – AI & Recommendation Systems
 🎯 **Goal**: Implement intelligent recommendation algorithms
 
 | Date | Topic | Hours | Learning Outcome | Resume Skill | Resources |
 |------|-------|-------|-----------------|--------------|------------|
-| 2025-06-10 | Prompt Engineering | 3 | Craft effective AI prompts | AI Prompt Engineering | [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/completion/prompt-design), [Prompt Engineering](https://www.youtube.com/watch?v=jC4v5AS0RVw) |
-| 2025-06-11 | Recommendation Algorithms | 3 | Build basic recommendation system | Algorithm Design | [Recommendation Systems Tutorial](https://developers.google.com/machine-learning/recommendation), [RecSys Introduction](https://www.youtube.com/watch?v=giIXNoiqO_U) |
-| 2025-06-12 | User Preference Analysis | 3 | Extract insights from user inputs | Data Analysis | [NLP.js](https://github.com/axa-group/nlp.js), [NLP in JavaScript](https://www.youtube.com/watch?v=JwSS70SZdyM) |
-| 2025-06-13 | Similarity Matching | 3 | Match user needs to tools | Vector Search Implementation | [Vector Similarity Search](https://www.pinecone.io/learn/vector-similarity/), [Embeddings Tutorial](https://www.youtube.com/watch?v=ySus5ZS0b94) |
-| 2025-06-14 | A/B Testing Setup | 3 | Optimize recommendation conversion | Conversion Optimization | [A/B Testing React](https://split.io/blog/react-ab-testing/), [A/B Testing Tutorial](https://www.youtube.com/watch?v=zFMgpxG-chM) |
-| 2025-06-15 | Personalization Techniques | 3 | Enhance user experience with personalization | User Experience Design | [Personalization Strategies](https://www.dynamicyield.com/personalization/), [UX Personalization](https://www.youtube.com/watch?v=kgUC0WvjVKM) |
-| 2025-06-16 | Affiliate Link Management | 3 | Implement and track affiliate links | Monetization Strategy | [Affiliate Marketing API Guide](https://www.awin.com/us/publisher/technical-solutions), [Affiliate Implementation](https://www.youtube.com/watch?v=9DgS0jImzNY) |
+| 2025-06-10 | Prompt Engineering | 3 | Craft effective AI prompts | LLM Prompt Engineering, AI Interaction Design | [Prompt Engineering Guide](https://www.promptingguide.ai/), [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/completion/prompt-design) |
+| 2025-06-11 | Recommendation Algorithms | 3 | Build basic recommendation system | AI Recommendation System, Algorithm Implementation | [Recommendation Systems Tutorial](https://developers.google.com/machine-learning/recommendation), [RecSys Introduction](https://www.youtube.com/watch?v=giIXNoiqO_U) |
+| 2025-06-12 | User Preference Analysis | 3 | Extract insights from user inputs | User Data Analysis, Preference Modeling | [NLP.js](https://github.com/axa-group/nlp.js), [NLP in JavaScript](https://www.youtube.com/watch?v=JwSS70SZdyM) |
+| 2025-06-13 | Similarity Matching | 3 | Match user needs to tools | Vector Embedding Implementation, Similarity Search Algorithms | [Vector Similarity Search](https://www.pinecone.io/learn/vector-similarity/), [Embeddings Tutorial](https://www.youtube.com/watch?v=ySus5ZS0b94) |
+| 2025-06-14 | A/B Testing Setup | 3 | Optimize recommendation conversion | A/B Testing Implementation, Statistical Analysis | [A/B Testing React](https://split.io/blog/react-ab-testing/), [A/B Testing Tutorial](https://www.youtube.com/watch?v=zFMgpxG-chM) |
+| 2025-06-15 | Personalization Techniques | 3 | Enhance user experience with personalization | User Experience Personalization, Behavioral Targeting | [Personalization Strategies](https://www.dynamicyield.com/personalization/), [UX Personalization](https://www.youtube.com/watch?v=kgUC0WvjVKM) |
+| 2025-06-16 | Affiliate Link Management | 3 | Implement and track affiliate links | Affiliate Marketing System, Monetization Strategy | [Affiliate Marketing API Guide](https://www.awin.com/us/publisher/technical-solutions), [Affiliate Implementation](https://www.youtube.com/watch?v=9DgS0jImzNY) |
 
 ### Week 4 – Deployment & Monetization
 🎯 **Goal**: Launch and monetize the AI Tool Finder Chatbot
 
 | Date | Topic | Hours | Learning Outcome | Resume Skill | Resources |
 |------|-------|-------|-----------------|--------------|------------|
-| 2025-06-17 | CI/CD Setup | 3 | Automate testing and deployment | DevOps Automation | [GitHub Actions](https://github.com/features/actions), [CI/CD Tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI) |
-| 2025-06-18 | Analytics Integration | 3 | Track user behavior and conversions | Data-Driven Development | [Google Analytics](https://developers.google.com/analytics), [Analytics Implementation](https://www.youtube.com/watch?v=TpP31BxO_X4) |
-| 2025-06-19 | Vercel Deployment | 3 | Deploy the application | Cloud Deployment | [Vercel Deployment Guide](https://vercel.com/docs/concepts/deployments/overview), [Vercel Deployment Tutorial](https://www.youtube.com/watch?v=lAJ6LyvW_cw) |
-| 2025-06-20 | SEO Optimization | 3 | Drive organic traffic to the tool | Search Engine Optimization | [Next.js SEO](https://nextjs.org/learn/seo/introduction-to-seo), [SEO for Developers](https://www.youtube.com/watch?v=JSm4aQl4w_U) |
-| 2025-06-21 | Conversion Optimization | 3 | Maximize affiliate revenue | Revenue Optimization | [CRO Techniques](https://www.optimizely.com/optimization-glossary/conversion-rate-optimization/), [CRO Tutorial](https://www.youtube.com/watch?v=XoMkn8YDxzg) |
-| 2025-06-22 | User Feedback System | 3 | Gather and implement improvements | User-Centered Design | [React Feedback Components](https://www.npmjs.com/package/react-feedback-widget), [Feedback System Implementation](https://www.youtube.com/watch?v=j9nQYn8Hxd0) |
-| 2025-06-23 | Performance Optimization | 3 | Ensure fast load times | Frontend Performance | [Web Vitals](https://web.dev/vitals/), [React Performance](https://www.youtube.com/watch?v=7-13ldoUmLU) |
+| 2025-06-17 | CI/CD Setup | 3 | Automate testing and deployment | CI/CD Pipeline Implementation, GitHub Actions | [GitHub Actions CI/CD Tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI), [Automated Testing in JavaScript](https://www.youtube.com/watch?v=r9HdJ8P6GQI) |
+| 2025-06-18 | Analytics Integration | 3 | Track user behavior and conversions | Analytics Implementation, User Behavior Tracking | [Google Analytics 4 Tutorial](https://www.youtube.com/watch?v=TpP31BxO_X4), [Event Tracking in React](https://www.youtube.com/watch?v=W8r-FHN6Pss) |
+| 2025-06-19 | Vercel Deployment | 3 | Deploy the application | Cloud Deployment, DevOps | [Vercel Deployment Guide](https://vercel.com/docs/concepts/deployments/overview), [Vercel Deployment Tutorial](https://www.youtube.com/watch?v=lAJ6LyvW_cw) |
+| 2025-06-20 | SEO Optimization | 3 | Drive organic traffic to the tool | Technical SEO Implementation, Schema Markup | [SEO for Developers](https://www.youtube.com/watch?v=JSm4aQl4w_U), [Technical SEO Checklist](https://developers.google.com/search/docs/beginner/seo-starter-guide) |
+| 2025-06-21 | Conversion Optimization | 3 | Maximize affiliate revenue | CRO (Conversion Rate Optimization), Persuasive Design | [CRO Techniques](https://www.youtube.com/watch?v=XoMkn8YDxzg), [Psychology of Conversion](https://www.youtube.com/watch?v=vbsdBNuO8yY) |
+| 2025-06-22 | User Feedback System | 3 | Gather and implement improvements | User Feedback Implementation, UX Research | [User Feedback Collection](https://www.youtube.com/watch?v=j9nQYn8Hxd0), [In-App Survey Implementation](https://www.youtube.com/watch?v=CzWy3Cu1nXs) |
+| 2025-06-23 | Performance Optimization | 3 | Ensure fast load times | Web Performance Optimization, Core Web Vitals | [Web Vitals Optimization](https://www.youtube.com/watch?v=AQqFZ5t8uNc), [React Performance Optimization](https://www.youtube.com/watch?v=7-13ldoUmLU) |
 
 ## Key Features You'll Build (and Skills You'll Learn)
 
@@ -1503,7 +1503,7 @@ Refer to the resources I've linked in the schedule above, and don't hesitate to 
 4. **[SEOwind](https://seowind.io/)**: AI-powered SEO content creation
 5. **[ContentBot](https://contentbot.ai/)**: AI content generator for SEO
 
-**Resume Skill**: Technical SEO Implementation, Schema.org Markup, Search Engine Optimization
+**Resume Skill**: Technical SEO Implementation, Schema Markup, Search Engine Optimization
 
 #### Day 26 (2025-06-21): Conversion Optimization
 **Today's Focus**: Maximizing affiliate revenue

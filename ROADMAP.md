@@ -11,7 +11,7 @@ This 12-month roadmap is designed to help you master the following essential ski
 | **Software Engineering** | Front-End Development | Next.js, TypeScript, Tailwind CSS |
 | | Back-End Development | Next.js API Routes, FastAPI, Express.js |
 | | API Design | REST, GraphQL, OpenAPI |
-| | Testing | Jest, Cypress, React Testing Library |
+| | Testing | Jest, Cypress, Testing Library |
 | | Version Control | Git, GitHub, CI/CD |
 | **AI/ML & LLMs** | Prompt Engineering | OpenAI API, Claude, Prompt Templates |
 | | RAG Systems | Vector Databases, Embeddings, Retrieval |
